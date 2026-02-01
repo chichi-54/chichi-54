@@ -2,20 +2,18 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # This gives write permission
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          ref: master  # Work on master branch directly
+          token: ${{ secrets.SNAKE_TOKEN }}
       
       - name: Generate snake animation
         uses: Platane/snk@master
@@ -23,9 +21,9 @@ jobs:
           github_user_name: chichi-54
           outputs: dist/github-contribution-grid-snake.svg
       
-      - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          commit_message: "Update snake animation"
+          github_token: ${{ secrets.SNAKE_TOKEN }}
           branch: master
-          file_pattern: 'dist/*.svg'
+          force: true
