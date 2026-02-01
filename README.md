@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://raw.githubusercontent.com/chichi-54/chichi-54/main/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/chichi-54/chichi-54/output/dist/github-contribution-grid-snake.svg)
+
+<!-- OR if you want the GIF -->
+![Snake animation](https://raw.githubusercontent.com/chichi-54/chichi-54/output/dist/github-contribution-grid-snake.gif)
