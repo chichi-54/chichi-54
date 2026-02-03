@@ -39,7 +39,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-IoT-C51A4A?logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-IoT-00979D?logo=arduino&logoColor=white)
 
---
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
