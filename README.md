@@ -1,12 +1,15 @@
 # Hi, I'm Chetachi 👩🏽‍💻
+<table>
+<tr>
+  <td width="70%" style="background: linear-gradient(90deg, #e81cff, #40c9ff); padding: 20px; border-radius: 10px;">
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=ffffff&width=600&lines=Student+Technologist;AI+in+Education;Future+Cybersecurity+Specialist;Building+Tools+That+Help+Students" />
+  </td>
+  <td width="40%" align="center" style="background: linear-gradient(90deg, #40c9ff, #e81cff); padding: 20px; border-radius: 10px;">
+    <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220"/>
+  </td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=6A5ACD&center=true&vCenter=true&lines=Student+Technologist;AI+in+Education;Future+Cybersecurity+Specialist;Making+Tools+That+Help+Students" />
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🚀 Focus Areas
 
