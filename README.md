@@ -61,7 +61,8 @@
 
 🔗 [View Project](https://chichi-54.github.io/Web-Project-Root/index.html)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 
 ###   🐍 Nokia Snake Game - With Hand Gesture and Face Tracking
 > Python tools (Open CV) that make game visual, interactive, and movement-based  
@@ -71,7 +72,8 @@
 
 🔗 [View Project](https://github.com/chichi-54/Snake-Game---Facial-Movement-Detection)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 
 ## 💦 Hydraulic Flow Mapping & Image Analysis Tool
 > Python tool that plots and graphs, conducting geospatial analysis
@@ -81,7 +83,7 @@
 
 🔗 [View Project](https://github.com/chichi-54/Gateway-Arch-Traced-Image)
 
----
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
@@ -93,6 +95,7 @@
   <img src="https://skillicons.dev/icons?i=discord" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 
 > Building tech that helps students think better, not just score better.
