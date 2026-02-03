@@ -36,6 +36,10 @@
 ![AI](https://img.shields.io/badge/AI-Education-red)
 ![Data Science](https://img.shields.io/badge/Data-Science-purple)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-black)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-IoT-C51A4A?logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-IoT-00979D?logo=arduino&logoColor=white)
+
 --
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
