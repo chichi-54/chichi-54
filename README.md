@@ -23,14 +23,17 @@
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-Programming-red?logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Programming-purple?logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Interactivity-yellow?logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557c)
 ![AI](https://img.shields.io/badge/AI-Education-red)
 ![Data Science](https://img.shields.io/badge/Data-Science-purple)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-black)
-
----
+--
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
